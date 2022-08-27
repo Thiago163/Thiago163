@@ -21,4 +21,4 @@
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-![R](https://user-images.githubusercontent.com/101190863/187051461-83d6f394-73a7-430c-9648-f66105614f5a.gif)
+![Skwigly-Banner-Weird-Eye](https://user-images.githubusercontent.com/101190863/187051517-ba4e5b0c-a4dc-4afe-a548-676bee320b84.gif)
