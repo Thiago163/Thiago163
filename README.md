@@ -1,3 +1,5 @@
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Silva+Da+Cruz;I'm+17+years+old;I+from+Santana+de+Parnaíba,+SP;I+study+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
  </p> 
   
@@ -18,3 +20,6 @@
  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Uploading Inventor.png…]()
+
+![R](https://user-images.githubusercontent.com/101190863/187051356-319c609a-92c0-48ef-a1a2-83967106e9a2.gif)
