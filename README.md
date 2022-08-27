@@ -22,5 +22,3 @@
  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
  
  ![wave](https://user-images.githubusercontent.com/101190863/187051634-ccd2374c-d25c-4ffe-8392-e1ca0ed2e1b8.gif)
-
-![fygfytfyt](https://user-images.githubusercontent.com/101190863/187051878-976b2ce1-aaac-4db3-ba34-a0db534e2446.png)
