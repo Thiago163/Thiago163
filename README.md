@@ -20,5 +20,5 @@
  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-                                                          ![wave](https://user-images.githubusercontent.com/101190863/187051634-ccd2374c-d25c-4ffe-8392-e1ca0ed2e1b8.gif)
+ 
+ ![wave](https://user-images.githubusercontent.com/101190863/187051634-ccd2374c-d25c-4ffe-8392-e1ca0ed2e1b8.gif)
