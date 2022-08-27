@@ -5,7 +5,7 @@
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
  ![Visual Studio Code](https://img.shields.io/badge/-visual_studio_code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp; 
  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp; 
-![Inventor](https://user-images.githubusercontent.com/101190863/187051211-baa80f14-20b6-4666-be84-32ce8093dcca.png)&nbsp; 
+![Inventor](https://user-images.githubusercontent.com/101190863/187051211-baa80f14-20b6-4666-be84-32ce8093dcca.pngstyle=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp; 
 
 
  ### Main skills: 
@@ -19,4 +19,3 @@
  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Inventor](https://user-images.githubusercontent.com/101190863/187051211-baa80f14-20b6-4666-be84-32ce8093dcca.png)
