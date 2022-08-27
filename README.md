@@ -21,4 +21,4 @@
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-![R](img width=100%://user-images.githubusercontent.com/101190863/187051356-319c609a-92c0-48ef-a1a2-83967106e9a2.gif)
+![R](//user-images.githubusercontent.com/101190863/187051356-319c609a-92c0-48ef-a1a2-83967106e9a2.gif)
