@@ -5,8 +5,9 @@
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
  ![Visual Studio Code](https://img.shields.io/badge/-visual_studio_code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp; 
  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp; 
- ![Inventor]([https://www.bing.com/images/search?view=detailV2&ccid=jDA4pA9h&id=B31FE739BD9490237B1A501105268C4D8E5277FC&thid=OIP.jDA4pA9hV1tAYUEoqdnz1wAAAA&mediaurl=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fdakirby309%2Fsimply-styled%2F256%2FAutodesk-Inventor-icon.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.8c3038a40f61575b40614128a9d9f3d7%3Frik%3D%252fHdSjk2MJgURUA%26pid%3DImgRaw%26r%3D0%26sres%3D1%26sresct%3D1&exph=256&expw=256&q=Autodesk+Inventor+PNG&simid=608013553899757194&form=IRPRST&ck=B9913DF1061817366477BEE001DCF9A1&selectedindex=25&ajaxhist=0&ajaxserp=0&vt=0&sim=11](https://th.bing.com/th/id/R.8c3038a40f61575b40614128a9d9f3d7?rik=If%2faSrTuYnyqjA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fdakirby309%2fsimply-styled%2f256%2fAutodesk-Inventor-icon.png&ehk=N7y%2b%2bltC7U3rTUo%2fkjhwi1repnONn9mBWgpHovaRbPQ%3d&risl=&pid=ImgRaw&r=0))&nbsp;
- 
+ ![inventor](https://img.shields.io/badge/-Inventor-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp; 
+
+
  ### Main skills: 
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp; 
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
