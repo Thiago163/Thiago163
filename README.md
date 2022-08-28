@@ -2,7 +2,7 @@
 <img height="200" width="850" src="https://user-images.githubusercontent.com/101190863/187051517-ba4e5b0c-a4dc-4afe-a548-676bee320b84.gif">
 </div>
 
-### Programação e tecnologia!
+# Programação e tecnologia!
 <div align="center">
   <a href="https://github.com/mistickesterio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
