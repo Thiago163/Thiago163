@@ -16,7 +16,7 @@
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
  ![Visual Studio Code](https://img.shields.io/badge/-visual_studio_code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp; 
  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
- <img align="center" alt="Thiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Thiago-Csharp" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  ![Iventor](https://img.shields.io/badge/-iventor-0D1117?style=for-the-badge&iventor-autodesk&labelColor=0D1117)&nbsp; 
 
 Main skills: 
