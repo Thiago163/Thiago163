@@ -41,6 +41,8 @@
  ![React Native](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
  ![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
  
+ ----------------------------------------------
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=45&center=true&vCenter=true&width=1000&lines=Follow+me!+:%29)](https://git.io/typing-svg)
   
 ![wave](https://user-images.githubusercontent.com/101190863/187051634-ccd2374c-d25c-4ffe-8392-e1ca0ed2e1b8.gif)
