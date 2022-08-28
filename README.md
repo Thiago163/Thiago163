@@ -12,11 +12,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Silva+Da+Cruz;I'm+17+years+old;I+from+Santana+de+Parnaíba,+SP;I+study+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
  </p> 
   
- Tools: 
+ Tools:
+ <img align="center" alt="Thiago-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
  ![Visual Studio Code](https://img.shields.io/badge/-visual_studio_code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp; 
  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
- <img align="center" alt="Thiago-Csharp" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  ![Iventor](https://img.shields.io/badge/-iventor-0D1117?style=for-the-badge&iventor-autodesk&labelColor=0D1117)&nbsp; 
 
 Main skills: 
