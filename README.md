@@ -46,4 +46,6 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=45&center=true&vCenter=true&width=1000&lines=Follow+me!+:%29)](https://git.io/typing-svg)
   
-![wave](https://user-images.githubusercontent.com/101190863/187051634-ccd2374c-d25c-4ffe-8392-e1ca0ed2e1b8.gif)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101190863/187051634-ccd2374c-d25c-4ffe-8392-e1ca0ed2e1b8.gif">
+</div>
