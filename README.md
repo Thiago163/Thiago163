@@ -2,7 +2,7 @@
 <img height="200" width="850" src="https://user-images.githubusercontent.com/101190863/187051517-ba4e5b0c-a4dc-4afe-a548-676bee320b84.gif">
 </div>
 
- </p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Silva+Da+Cruz;I'm+17+years+old;I+from+Santana+de+Parnaíba,+SP;I+study+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
  </p> 
 
