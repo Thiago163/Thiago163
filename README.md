@@ -26,6 +26,11 @@
  ![Autodesk](https://img.shields.io/badge/-Autodesk-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp;
  ![Iventor](https://img.shields.io/badge/-Iventor-0D1117?style=for-the-badge&logo=iventor&labelColor=0D1117)&nbsp; 
 
+ ![Autodesk](https://img.shields.io/badge/-Autodesk-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp; 
+ ![Inventor](https://img.shields.io/badge/-Inventor-0D1117?style=for-the-badge&autodesk-inventor&labelColor=0D1117)&nbsp;
+=======
+
+
 ### Main skills: 
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp; 
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
