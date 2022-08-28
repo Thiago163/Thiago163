@@ -1,6 +1,4 @@
-<div align="center">
 ![Skwigly-Banner-Weird-Eye](https://user-images.githubusercontent.com/101190863/187051517-ba4e5b0c-a4dc-4afe-a548-676bee320b84.gif)
-</div>
 
 ## Programação e design!
 <div align="center">
