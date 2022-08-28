@@ -5,7 +5,7 @@
   <a href="https://github.com/mistickesterio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistickesterio&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Silva+Da+Cruz;I'm+17+years+old;I+from+Santana+de+Parnaíba,+SP;I+study+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
  </p> 
