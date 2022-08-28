@@ -7,11 +7,13 @@
  </p> 
 
 ## Programação e tecnologia!
-<div align="center">
-  <a href="https://github.com/mistickesterio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistickesterio&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kennedy Santos Viana github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistickesterio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mistickesterio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
   
   ----------------------------------------------
   
