@@ -24,7 +24,7 @@
  ![Visual Studio Code](https://img.shields.io/badge/-visual_studio_code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp; 
  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
  ![Autodesk](https://img.shields.io/badge/-Autodesk-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp;
- ![Iventor](https://img.shields.io/badge/-Autodesk-0D1117?style=for-the-badge&logo=iventor&labelColor=0D1117)&nbsp; 
+ ![Iventor](https://img.shields.io/badge/-Iventor-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp; 
 
 ### Main skills: 
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp; 
