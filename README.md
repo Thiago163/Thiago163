@@ -8,8 +8,8 @@
 
 ## Programação e tecnologia!
 <div align="center">  
-  <img width="60%" height="200px" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kennedy Santos Viana github stats" /> 
-  <img width="60%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistickesterio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="100%" height="400px" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kennedy Santos Viana github stats" /> 
+  <img width="100%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistickesterio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mistickesterio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
