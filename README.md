@@ -1,4 +1,4 @@
-<img align="center" height="250" width="850" src="https://user-images.githubusercontent.com/101190863/187051517-ba4e5b0c-a4dc-4afe-a548-676bee320b84.gif">
+<img align="center" height="250" width="1000" src="https://user-images.githubusercontent.com/101190863/187051517-ba4e5b0c-a4dc-4afe-a548-676bee320b84.gif">
 
 ## Programação e design!
 <div align="center">
