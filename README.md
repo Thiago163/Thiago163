@@ -3,7 +3,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Silva+Da+Cruz;I'm+17+years+old;I+from+Santana+de+Parnaíba,+SP;I+study+Systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Silva+Da+Cruz;I'm+electromechanical+and+programmer;I+from+Santana+de+Parnaíba,+SP;I+study+Systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
  </p> 
 
 ## Programação e tecnologia!
