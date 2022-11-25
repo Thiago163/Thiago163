@@ -15,7 +15,7 @@
  </p>
 
 <p align="center">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mistickesterio&layout=compact&langs_count=7&theme=darcula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mistickesterio&theme=dracula&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mistickesterio&show_icons=true&theme=darcula" alt="mistickesterio" />
 </p>
