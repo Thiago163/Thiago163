@@ -8,9 +8,8 @@
 
 ## Programação e tecnologia!
 ----------------------------------------------
-
 <p align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&layout=compact&langs_count=7&theme=darcula"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&layout=compact&langs_count=7&theme=darcula" alt="Thiago Cruz github stats"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistickesterio&layout=compact&langs_count=7&theme=darcula"/>
  </p>
 
