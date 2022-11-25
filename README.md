@@ -10,8 +10,8 @@
 ----------------------------------------------
 
 <p align="center">  
-  <img ="2000px" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&show_icons=true&count_private=true&hide_border=true&title_color=FF6347&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Cruz github stats" /> 
-  <img ="2000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistickesterio&layout=compact&hide_border=true&title_color=FF6347&text_color=00bfbf&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mistickesterio&show_icons=true&count_private=true&hide_border=true&title_color=FF6347&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistickesterio&layout=compact&langs_count=7&theme=darcula"/>
  </p>
 
 <p align="center">
