@@ -28,6 +28,7 @@
  ![Autodesk](https://img.shields.io/badge/-Autodesk-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp;
  ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp;
  ![Inventor](https://img.shields.io/badge/-Inventor-0D1117?style=for-the-badge&logo=inventor&labelColor=0D1117)&nbsp;
+ ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
  ![Onshape](https://img.shields.io/badge/-Onshape-0D1117?style=for-the-badge&logo=onshape&labelColor=0D1117)&nbsp;
 
 ### Main skills: 
