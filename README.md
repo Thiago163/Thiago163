@@ -27,8 +27,8 @@
  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
  ![Autodesk](https://img.shields.io/badge/-Autodesk-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp;
  ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp;
- ![Inventor](https://img.shields.io/badge/-Inventor-0D1117?style=for-the-badge&logo=inventor&labelColor=0D1117)&nbsp;
  ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+ ![Inventor](https://img.shields.io/badge/-Inventor-0D1117?style=for-the-badge&logo=inventor&labelColor=0D1117)&nbsp;
  ![Onshape](https://img.shields.io/badge/-Onshape-0D1117?style=for-the-badge&logo=onshape&labelColor=0D1117)&nbsp;
 
 ### Main skills: 
@@ -41,6 +41,7 @@
 
 ### Studying in this moment:
  ![React Native](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+ ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
  ![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp; 
