@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thiago163&theme=dracula&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago163&show_icons=true&theme=darcula" alt="mistickesterio" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago163&show_icons=true&theme=darcula" alt="Thiago163" />
 </p>
   
 ----------------------------------------------
