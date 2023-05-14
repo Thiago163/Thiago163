@@ -4,9 +4,7 @@
   </kbd>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Silva+Da+Cruz;I'm+electromechanical+and+programmer;I+from+Santana+de+Parnaíba,+SP;I+study+Systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
- </p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Silva+Da+Cruz;I'm+electromechanical+and+programmer;I+from+Santana+de+Parnaíba,+SP;I+study+Systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Programação e tecnologia!
 ----------------------------------------------
@@ -23,19 +21,19 @@
   
 ----------------------------------------------
   
- ### Tools:
- ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
- ![Visual Studio Code](https://img.shields.io/badge/-visual_studio_code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
- ![Visual Studio Enterprise](https://img.shields.io/badge/-visual_studio_enterprise-0D1117?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
- ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
- ![Autodesk](https://img.shields.io/badge/-Autodesk-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp;
- ![Google Chrome](https://img.shields.io/badge/-google_chrome-0D1117?style=for-the-badge&logo=google-chrome&labelColor=0D1117)&nbsp;
- ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
- ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft-azure&labelColor=0D1117)&nbsp;
- ![Inventor](https://img.shields.io/badge/-Inventor-0D1117?style=for-the-badge&logo=inventor&labelColor=0D1117)&nbsp;
- ![Onshape](https://img.shields.io/badge/-Onshape-0D1117?style=for-the-badge&logo=onshape&labelColor=0D1117)&nbsp;
+### Tools:
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
+![Visual Studio Code](https://img.shields.io/badge/-visual_studio_code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
+![Visual Studio Enterprise](https://img.shields.io/badge/-visual_studio_enterprise-0D1117?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Autodesk](https://img.shields.io/badge/-Autodesk-0D1117?style=for-the-badge&logo=autodesk&labelColor=0D1117)&nbsp;
+![Google Chrome](https://img.shields.io/badge/-google_chrome-0D1117?style=for-the-badge&logo=google-chrome&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft-azure&labelColor=0D1117)&nbsp;
+![Inventor](https://img.shields.io/badge/-Inventor-0D1117?style=for-the-badge&logo=inventor&labelColor=0D1117)&nbsp;
+![Onshape](https://img.shields.io/badge/-Onshape-0D1117?style=for-the-badge&logo=onshape&labelColor=0D1117)&nbsp;
 
-### Main skills: 
+### Main skills: 
  ![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=c#3&logoColor=1572B6&labelColor=0D1117)&nbsp;
  ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  ![Ladder](https://img.shields.io/badge/-Ladder-0D1117?style=for-the-badge&logo=ladder&labelColor=0D1117&textColor=0D1117)&nbsp;
