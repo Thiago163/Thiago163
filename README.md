@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Thiago163" title="Visitors">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Thiago163" alt="Visitors" style="width: 20%; height: auto;" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Thiago163" alt="Visitors" style="width: 25%; height: 5%;" />
   </a>
 </p>  
 
