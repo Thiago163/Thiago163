@@ -18,7 +18,13 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago163&show_icons=true&theme=darcula" alt="Thiago163" />
 </p>
-  
+
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Thiago163" title="Visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Thiago163" alt="Visitors" style="width: 150px; height: auto;" />
+  </a>
+</p>  
+
 ----------------------------------------------
   
 ### Tools:
@@ -52,8 +58,16 @@
  
  ----------------------------------------------
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=45&center=true&vCenter=true&width=1000&lines=Follow+me!+:%29)](https://git.io/typing-svg)
-  
+  <p align="center">
+  <img src="https://img.shields.io/github/stars/Thiago163?style=social" alt="GitHub Org's stars" />
+</p>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/101190863/187051634-ccd2374c-d25c-4ffe-8392-e1ca0ed2e1b8.gif">
+  <a href="https://git.io/typing-svg" title="Follow me!">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=F4A460&size=45&center=true&vCenter=true&width=1000&lines=Follow+me!+:%29" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/101190863/187051634-ccd2374c-d25c-4ffe-8392-e1ca0ed2e1b8.gif" alt="GIF" />
 </div>
