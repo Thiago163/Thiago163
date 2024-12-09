@@ -46,6 +46,7 @@
  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
  ![MySql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+ ![SQL Server](https://img.shields.io/badge/-SQL_Server-0D1117?style=for-the-badge&logo=sql_servert&labelColor=0D1117&logoColor=0D1117)&nbsp;
 
 ### Studying in this moment:
  ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&logoColor=FFFFFF)&nbsp;
