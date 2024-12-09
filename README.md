@@ -48,6 +48,7 @@
  ![MySql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
+ ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&logoColor=FFFFFF)&nbsp;
  ![React Native](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
  ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
  ![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
